@@ -1,0 +1,25 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	background-color: #555;
+	width: 960px;
+	margin: 0 auto;
+}
+.perataan{
+	display: flex;
+	flex:;
+}
+.box-3{
+	width: 315px;
+	border: 1px solid green;
+	background-color: #fff;
+	margin:5px;
+}
+.box-2{
+	
+	border: 1px solid green;
+	background-color: #fff;
+	margin:5px;
+}
